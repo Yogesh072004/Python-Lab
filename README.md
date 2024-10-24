@@ -1,2 +1,2 @@
 # Python-Lab
-Python Lap programs
+Python Lab programs
